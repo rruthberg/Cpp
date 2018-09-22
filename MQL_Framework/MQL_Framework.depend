@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1504640735 source:c:\users\ruthberg\desktop\cprog\mql_framework\main.cpp
+	<iostream>
+	"MQL_Trade.h"
+	"Trade.h"
+	<vector>
+
+1504642815 c:\users\ruthberg\desktop\cprog\mql_framework\mql_trade.h
+	<string>
+	<vector>
+
+1498582272 c:\users\ruthberg\desktop\cprog\mql_framework\trade.h
+
+1498582248 source:c:\users\ruthberg\desktop\cprog\mql_framework\trade.cpp
+	"Trade.h"
+
+1504642866 source:c:\users\ruthberg\desktop\cprog\mql_framework\mql_trade.cpp
+	"MQL_Trade.h"
+	<string>
+	<vector>
+
+1498582250 source:c:\users\ruthberg\desktop\c++\mql_framework\trade.cpp
+	"Trade.h"
+
+1498582274 c:\users\ruthberg\desktop\c++\mql_framework\trade.h
+
+1510258155 source:c:\users\ruthberg\desktop\c++\mql_framework\main.cpp
+	<iostream>
+	"MQL_Trade.h"
+	"Trade.h"
+	<vector>
+	<map>
+
+1507059767 c:\users\ruthberg\desktop\c++\mql_framework\mql_trade.h
+	<string>
+	<vector>
+	<map>
+
+1507064126 source:c:\users\ruthberg\desktop\c++\mql_framework\mql_trade.cpp
+	"MQL_Trade.h"
+	<string>
+	<vector>
+	<iostream>
+
